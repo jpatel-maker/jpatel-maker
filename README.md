@@ -1,6 +1,6 @@
 ### Software Engineering
 
-![Development](https://twitter.com/jashan_original?lang=en)
+![Development](https://twitter.com/jashan_original)
 
 # Hi there 👋, my name is Jashan
 
