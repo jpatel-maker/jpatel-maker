@@ -4,7 +4,10 @@ I'm an Electrical/Information Engineer currently learning new development langua
 
 # **Skills:**
 
-Python  REACT  JS  SQL 
+💻 Python  
+💻 REACT  
+💻 JS  
+💻 SQL 
 
 # **Current Projects:**
 
