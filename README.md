@@ -1,14 +1,10 @@
-### Software Engineering
-
-![Development](https://twitter.com/jashan_original)
-
 # Hi there 👋, my name is Jashan
 
 I'm an Electrical/Information Engineer currently learning new development languages. I'm currently building new development projects and aim to transition into Software Engineering . I previously worked as a product manager and managment consultant.
 
 # **Skills:**
 
-Python / REACT / JS / SQL 
+Python  REACT  JS  SQL 
 
 # **Current Projects:**
 
