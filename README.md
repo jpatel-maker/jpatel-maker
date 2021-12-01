@@ -11,7 +11,7 @@ Python / REACT / JS / SQL
 
 # **Current Projects:**
 
-  🔨  Work in Progress
+ > 🔨  Work in Progress
 
 # **Connect with Me:**
 
