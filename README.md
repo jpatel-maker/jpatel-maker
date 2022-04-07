@@ -4,7 +4,7 @@ I'm an Electrical/Information Engineer currently learning new development langua
 
 # **Skills:**
 
-Python/REACT/JS/SQL
+Python/REACT/Javascript/SQL
 
 Agile/Scrum/Product Management 
 
